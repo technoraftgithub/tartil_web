@@ -1,0 +1,376 @@
+{
+  "Auth": {
+    "welcome": {
+      "welcome": "مرحبا بك",
+      "whatintroduce": "ماذا نقدم؟",
+      "about": "تطبيق ترتيل عبارة عن منصة تجمع مجموعة هائلة من المعلمين المصريين المعتمدين من الرجال والنساء لتقديم دمة تحفيظ القران الكريم اونلاين من اى مكان في العالم وفى الوقت الذى يناسب الطلاب من الرجال والنساء والأطفال",
+      "start": "انضم الينا الان"
+    },
+    "login": {
+      "login": "تسجيل الدخول",
+      "welcome_again": "مرحبا بك مجددا، لقد اشتقنا اليك",
+      "phone": "رقم الموبايل",
+      "password": "كلمة المرور",
+      "forget_password": "نسيت كلمة المرور؟",
+      "log_now": "الدخول الان والتسجيل لاحقا",
+      "log_account": "أو الدخول باستخدام حساب شخصى",
+      "facebook": "فيس بوك",
+      "google": "جوجل",
+      "dont_have_account": "ليس لديك حساب؟",
+      "create_account": "إنشاء حساب",
+      "loginasstudent": "الدخول كطالب",
+      "loginasteacher": "الدخول كمعلم"
+    },
+    "language": {
+      "choose_language": "اختر لغة التطبيق",
+      "language": "اللغة",
+      "arabic": "العربية",
+      "english": "الانجليزية",
+      "next": "التالي"
+    },
+    "reset": {
+      "reset_password": "استعادة كلمة المرور",
+      "enter_mobile": "قم بإدخال رقم الموبايل الذى قمت بالتسجيل به لارسال كود لاستعادة كلمة المرور",
+      "send": "ارسال"
+    },
+    "pincode": {
+      "sent_code": "،لقد قمنا بارسال كود التاكيد الى رقم الموبايل قم بالتحقق من الرسائل وادخل الكود المرسل الى",
+      "confirm": "تأكيد",
+      "resend_code": "اعادة ارسال الكود"
+    },
+    "chossetype": {
+      "account_type": "اختر نوع حسابك",
+      "student": "طالب",
+      "teacher": "معلم"
+    },
+    "completecreateaccount": {
+      "create_new_account": "انشاء حساب جديد",
+      "enter_personal_info": "ادخل البيانات الشخصية",
+      "name": "الاسم",
+      "dob": "تاريخ الميلاد",
+      "done": "تأكيد",
+      "country": "البلد",
+      "nationality": "الجنسية",
+      "gender": "الجنس",
+      "socailstates": "الحالة الاجتماعية",
+      "thanks": "شكرا لك,لقد تم تسجيل حسابك بنجاح",
+      "continue": "المتابعة",
+      "we_are_happy": "نحن سعداء بوجودك معنا اليوم",
+      "start_now": "ابدأ الان",
+      "single": "اعزب",
+      "married": "متزوج",
+      "other": "أخري"
+    },
+    "createnewaccount": {
+      "enter_personal_info_to_create": "قم بإدخال البيانات لانشاء الحساب",
+      "confirm_password": "إعادة كلمة المرور",
+      "email": "البريد الالكتروني",
+      "continue": "المتابعة",
+      "have_an_account": "لديك حساب؟",
+      "agree_to": "بقيامك بالتسجيل فأنت توافق على",
+      "terms": "الشروط والاحكام"
+    },
+    "teacher_register": {
+      "carrier_info": "ادخل البيانات المهنية",
+      "date_of_start_teaching": "تاريخ بداية التدريس",
+      "language_of_education": "لغة التعليم",
+      "english": "الانجليزية",
+      "arabic": "العربية",
+      "all": "الكل",
+      "are_you": "حدد هل انت ازهرى او مجاز مع ارفاق صورة",
+      "azhari": "أزهرى",
+      "azhar_photo": "أرفق صورة الشهادة الازهرية",
+      "metaphor": "مجاز",
+      "vaction_photo": "أرفق صورة من أحدث إجازة",
+      "more": "أخبرنا المزيد عنك"
+    },
+    "resetnewpassword": {
+      "reset_new_password": "تعيين كلمة مرور جديدة",
+      "enter_new_password": "قم بإدخال كلمة مرور جديدة",
+      "new_password": "كلمة المرور الجديدة",
+      "confirm_new_password": "تأكيد كلمة المرور الجديدة",
+      "confirm": "تأكيد",
+      "back_to_login": "العودة الى الدخول",
+      "thanks": "شكرا لك ، لقد قمت بتغيير كلمة المرور بنجاح"
+    }
+  },
+  "Main": {
+    "bookingnewtime": {
+      "booking": "حجوزاتي",
+      "this_week": "هذا الاسبوع",
+      "agenda": "الاجندة",
+      "booking_session_time": "حجز وقت الجلسة",
+      "available_time": "مواعيد المعلم المتاحه لهذا اليوم",
+      "no_sessions_available": "لا يوجد جلسات متاحة فى هذا الموعد"
+    },
+    "changepassword": {
+      "change_password": "تغيير كلمة المرور",
+      "newpassword": "كلمة المرور الجديدة",
+      "confirmnewpassword": "إعادة كلمة المرور الجديدة",
+      "save": "حفظ"
+    },
+    "chats": {
+      "chats": "المحادثات",
+      "search_for_chat": "ابحث في المحادثات"
+    },
+    "commonquestions": {
+      "common_questions": "الأسئلة الشائعة"
+    },
+    "contactus": {
+      "contact": "تواصل معنا"
+    },
+    "discount": {
+      "discounts": "كوبونات الخصم",
+      "couponname": "كود الكوبون : ",
+      "recitationcoupon": "كوبون التلاوة",
+      "appear_in_site": "يظهر في صفحة الدفع",
+      "coupon_value": "قيمة الكوبون: ",
+      "coupon_validity": "صلاحية الكوبون: ",
+      "until_supplies_runout": "صلاحية الكوبون"
+    },
+    "teacherfavourit": {
+      "teacher_favourit": "المعلمون المفضلون",
+      "search_for_teacher": "ابحث عن معلم",
+      "average_session_price": "متوسط سعر الجلسة",
+      "free_sessions": "حجز جلسة واحدة",
+      "more_about_teacher": "المزيد عن المعلم"
+    },
+    "home": {
+      "home": "الرئيسية",
+      "chat": "محادثه",
+      "welcome_in_tartil": "اهلا بك في ترتيل",
+      "choose_teacher": "اختر معلمك من مجموعة المعلمين المعتمدين لتعلم القران الكريم اونلاين",
+      "search_for": "ابحث عن معلم",
+      "session_average": "الجلسة تبدأ ب : ",
+      "language": "اللغة : ",
+      "free_session": "حجز جلسة",
+      "more_about": "المزيد عن المعلم",
+      "filter": "التصفية",
+      "show_teacher": "عرض المعلمين",
+      "all": "الكل",
+      "available": "متاح",
+      "teacher_gender": "جنس المعلم",
+      "male": "ذكر",
+      "female": "انثي",
+      "teahcer_language": "لغة التعليم : ",
+      "search": "بحث",
+      "require_login": "تسجيل الدخول مطلوب",
+      "you_should": "يجب عليك تسجيل الدخول لكي تتمكن من المواصلة",
+      "cancel": "الغاء",
+      "no_teacher": "لا يوجد معلمين متوفرين",
+      "no_student": "لا يوجد طلاب متوفرين",
+      "you_cant_search_for": "لا يمكنك البحث عن معلمات"
+    },
+    "mybooking": {
+      "my_booking": "حجوزاتي",
+      "fixed": "تم تحديد موعدها",
+      "not_fixed": "لم يتم تحديد موعدها",
+      "finished": "منتهية",
+      "teacher_name": "اسم المعلم: ",
+      "sessions_date": "تاريخ الجلسة: ",
+      "session_time": "موعد الجلسة : ",
+      "session_number": "رقم الجلسة : ",
+      "details": "التفاصيل",
+      "change_time": "تغيير المعاد",
+      "package_name": "اسم الباقة : ",
+      "send_message_to": "ارسل رسالة الي المعلم",
+      "choose_session_time": "تحديد معاد جلسة",
+      "session_balance": "رصيد جلساتك الحالي"
+    },
+    "mysubscriptions": {
+      "mysubscriptions": "اشتراكاتي",
+      "date_of_purchase": "تاريخ الشراء: ",
+      "still_five_days": "باقي علي انتهاء صلاحية هذه الباقة ",
+      "teacher_page_visit": "زيارة صفحة المعلم",
+      "status": "الحالة : ",
+      "price": "سعر الشراء : ",
+      "cancel_subcription": "الغاء الاشتراك",
+      "cancel_package": "هل انت متأكد من الغاء هذه الباقة؟",
+      "make_sure_teacher": "تأكد من اعتذارك للمعلم أولا في حالة الغاء الباقة"
+    },
+    "notifications": {
+      "notifications": "الاشعارات",
+      "start_session": "ابدأ الجلسة الان"
+    },
+    "packagereview": {
+      "package_review": "مراجعة الحجز",
+      "package_expire": "تاريخ الانتهاء : ",
+      "enter_discount": "أدخل كود الخصم في حالة وجوده",
+      "apply_code": "تطبيق الكود",
+      "apply": "تطبيق",
+      "you_can_use": "يمكنك استخدام كوبون من الكوبونات الخاصة بك",
+      "package_price": "سعر الباقة : ",
+      "discount_value": "قيمة الخصم",
+      "tartil_wallet": "قيمة محفظة ترتيل",
+      "administrative_expenses": "مصاريف ادارية",
+      "final_price": "السعر النهائي",
+      "continue_payment": "الاستمرار والدفع",
+      "go_to": "الذهاب الي صفحة كوبونات الخصم>>"
+    },
+    "paymentdetails": {
+      "payment_details": "تفاصيل الدفع",
+      "complete_payment": "إكمال عملية الدفع",
+      "congratulations": "تهانينا! لقد تم حجز باقتك بنجاح",
+      "add_teacher": "لقد قمنا بإضافة المعلم الذى حجزت معه الى قائمة المفضلين",
+      "you_can_back": "يمكنك الرجوع الى صفحة المعلم وحجز موعد معه",
+      "back_teacher": "الرجوع لصفحة المعلم",
+      "back_home": "الصفحة الرئيسية"
+    },
+    "policy": {
+      "policy": "سياسة استخدام التطبيق"
+    },
+    "profile": {
+      "personal_profile": "الملف الشخصى",
+      "personal_info": "المعلومات الشخصية",
+      "login_data": "بيانات الدخول",
+      "attach_login": "ربط تسجيل الدخول",
+      "update_data": "تحديث البيانات"
+    },
+    "teacherdetails": {
+      "teacher_details": "تفاصيل المعلم",
+      "age": "العمر: ",
+      "experience": "مدة الخبرة: ",
+      "add_teacher_to": "أضف المعلم الي المفضلة",
+      "you_can_start": "يمكنك بدأ جلسة تعارف اختيارية مجانا",
+      "teacher_certificate": "شهادات المعلم",
+      "student_review": "آراء الطلاب",
+      "teacher_time": "مواعيد المعلم",
+      "join_with_teacher": "اشترك مع المعلم",
+      "booking_new_time": "حجز معاد جديد",
+      "azhari_image": "صورة الشهادة الازهرية",
+      "vaction_image": "صورة اخر إجازة",
+      "done_to_favourite": "تمت الاضافة الي المفضلة",
+      "total_session": "إجمالي عدد الجلسات",
+      "from": "من",
+      "to": "الي"
+    },
+    "teacherpackages": {
+      "teacher_packages": "باقات المعلم",
+      "join_this_package": "اشترك في هذه الباقة",
+      "price_this_package": "سعر هذه الباقة : ",
+      "validation": "الصلاحية : ",
+      "choose_language": "اختر لغة التعليم"
+    },
+    "wallet": "محفظة ترتيل",
+    "when_cancel": "عند الغاء اشتراك سيتم تحويل المبلغ الي محفظة ترتيل الخاصه بك",
+    "logout": "تسجيل الخروج",
+    "earningsreceived": {
+      "earnings_received": "سجل الارباح المستلمة",
+      "you_can_follow": "يمكنك متابعة سجل ايراداتك السابقة",
+      "date_received": "تاريخ الاستلام : ",
+      "total_money": "المبلغ الذى تم استلامه : "
+    },
+    "prevoiousSession": {
+      "previous_session": "سجل الجلسات السابقة",
+      "student_name": "اسم الطالب : ",
+      "session_date": "تاريخ الجلسة : ",
+      "start": "توقيت البداية : ",
+      "see_rate": "مشاهدة تقيم الطالب",
+      "student_rate": "تقييم الطالب",
+      "student_opinion": "رأي الطالب"
+    },
+    "teachersubscribtion": {
+      "register_subscriptions": "سجل الاشتراكات",
+      "date_buy": "تاريخ الشراء : ",
+      "send_message_to": "ارسل رسالة للطالب",
+      "subscriptions_details": "تفاصيل الاشتراك",
+      "finish_session": "عدد الجلسات المنتهية : "
+    },
+    "teacherbookingrecording": {
+      "record_booking": "سجل الحجوزات",
+      "next_session": "الجلسات القادمة"
+    },
+    "teacherhome": {
+      "teacher_home": "الرئيسية",
+      "you_can_choose": "،يمكنك اختيار ظهورك للطالب متاح او غير متاح ويمكنك أيضا بدأ مكالمة افتراضية لتجربة الصوت والصورة وجودة المكالمة",
+      "available": "متاح",
+      "unAvailable": "غير متاح الان",
+      "start_call": "ابدأ مكالمة افتراضية",
+      "booking_session": "عدد الجلسات المحجوزة : ",
+      "fixed_session": "عدد الجلسات التي تم تحديد موعدها",
+      "not_booking": "عدد الجلسات التي اشترك الطلاب بها\n ولم يتم حجزها بعد",
+      "total_session": "إجمالي عدد الجلسات",
+      "total_join": "إجمالي عدد الاشتراكات",
+      "total_student": "إجمالي عدد الطلاب",
+      "follow_balance": "تابع رصيدك",
+      "available_balance": "الرصيد المتاح للصرف",
+      "suspended_balance": "الرصيد المعلق لحين الانتهاء من الجلسات المشترك بها",
+      "last_month": "الأرباح التي تم استلامها الشهر الماضى",
+      "profit_in_tartil": "الأرباح التي تم استلامها منذ الاشتراك في ترتيل",
+      "welcome_to": "!اهلا بك في ترتيل",
+      "we_are_happy": "نحن سعداء بوجودك معنا اليوم",
+      "next_session_time_from": "موعد جلستك القادمة اليوم من الساعة",
+      "next_session_time_to": "الى الساعة",
+      "start_session_now": "ابدأ الجلسة الان",
+      "show_details": "عرض التفاصيل",
+      "teacher_statics": "إحصائيات المعلم",
+      "get_money": "الحصول علي المبلغ",
+      "session_date": "تاريخ الجلسة : ",
+      "student_name": "اسم الطالب : ",
+      "session_price": "سعر الباقة : ",
+      "session_start": "موعد بدأ الجلسة : ",
+      "duration": "المدة : ",
+      "expire": "تاريخ انتهاء الصلاحية : ",
+      "session_details": "تفاصيل الجلسة",
+      "session_cancel": "الغاء حجز الجلسة",
+      "are_you_sure": "هل انت متأكد من الغاء هذه الجلسة؟",
+      "make_sure": "تأكد من اعتذارك للطالب أولا في حالة الغاء الجلسة",
+      "cancel_done": "لقد تم الغاء الجلسة",
+      "student_can": "يمكن للطالب حجز الجلسة مرة اخري وستظهر لك",
+      "back": "التراجع",
+      "subscribe": "اشتراك",
+      "minute": "دقيقة",
+      "yes": "نعم",
+      "no": "لا",
+      "disable_time": "هل أنت متأكد من تعطيل ظهور موعد هذه الجلسة للطلاب؟",
+      "enable_time": "هل أنت متأكد من إعادة تفعيل ظهور موعد هذه الجلسة للطلاب؟"
+    },
+    "teacherpackagesubscribe": {
+      "teacher_package_subscribe": "باقات اشتراك",
+      "we_will_calculate": "لك كامل الحرية في تحديد سعر الباقات للطلاب ويمكنك ايضا تفعيل اي باقة او تعطيلها",
+      "price_language": "سعر التعليم باللغة العربية",
+      "egy_price": "السعر بالمصري",
+      "en_price_language": "سعر التعليم باللغة الانجليزية",
+      "dollar_price": "السعر بالالدولار",
+      "save": "حفظ",
+      "packageNumbers": "عدد الجلسات : ",
+      "doYouWantToOnOrOf": "هل تريد تفعيل الباقة"
+    },
+    "teacherProfile": {
+      "teacher_profile": "الملف الشخصي",
+      "communicate": "بيانات التواصل",
+      "date_login": "بيانات الدخول",
+      "career_data": "البيانات المهنية"
+    },
+    "teacherstudent": {
+      "teacher_student": "طلابي",
+      "all": "الكل",
+      "current": "المشتركين حاليا",
+      "last_package": "اخر باقة اشترك فيها : ",
+      "still_session": "عدد الجلسات المتبقية : ",
+      "finish": "تم الانتهاء من جلساته",
+      "date": "التاريخ : "
+    },
+    "teachertime": {
+      "teacher_time": "مواعيدي",
+      "add_time": "المواعيد المضافة",
+      "edit": "تعديل",
+      "you_can": "يمكنك تحديد أوقات العمل المناسبة لك في هذا اليوم",
+      "sat": "السبت",
+      "sun": "الاحد",
+      "mon": "الاثنين",
+      "tus": "الثلاثاء",
+      "wens": "الاربعاء",
+      "thurs": "الخميس",
+      "frid": "الجمعة"
+    },
+    "copy": "نسخ الكوبون",
+    "copy_done": "تم نسخ النص بنجاح",
+    "current_balance": "الرصيد الحالي",
+    "no_data": "لا يوجد معلومات للعرض في هذه الصفحة حاليا",
+    "are_you_sure": "هل انت متأكد من انك تريد تغير اللغة",
+    "upload_image": "ارفق صورة",
+    "no_found_time": "لا يوجد مواعيد",
+    "delete_account": "هل تريد حذف حسابك"
+  }
+}

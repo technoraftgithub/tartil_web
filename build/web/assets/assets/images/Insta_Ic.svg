@@ -1,0 +1,20 @@
+<svg id="Insta_Ic" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Ellipse_623" data-name="Ellipse 623" cx="20" cy="20" r="20" fill="#576a7b"/>
+  <g id="insta" transform="translate(8 8)">
+    <g id="Group_5866" data-name="Group 5866" transform="translate(0)">
+      <g id="Group_5865" data-name="Group 5865" transform="translate(0)">
+        <path id="Path_11110" data-name="Path 11110" d="M18,0H6A6.018,6.018,0,0,0,0,6V18a6.019,6.019,0,0,0,6,6H18a6.019,6.019,0,0,0,6-6V6A6.018,6.018,0,0,0,18,0Zm4,18a4,4,0,0,1-4,4h-12a4,4,0,0,1-4-4V6a4,4,0,0,1,4-4H18a4,4,0,0,1,4,4V18Z" transform="translate(-0.005)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_5868" data-name="Group 5868" transform="translate(16.999 3.999)">
+      <g id="Group_5867" data-name="Group 5867">
+        <circle id="Ellipse_624" data-name="Ellipse 624" cx="1.501" cy="1.501" r="1.501" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_5870" data-name="Group 5870" transform="translate(5.996 5.996)">
+      <g id="Group_5869" data-name="Group 5869">
+        <path id="Path_11111" data-name="Path 11111" d="M108.409,102.4a6,6,0,1,0,6,6A6,6,0,0,0,108.409,102.4Zm0,10.008a4,4,0,1,1,4-4A4,4,0,0,1,108.409,112.408Z" transform="translate(-102.405 -102.4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

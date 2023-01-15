@@ -1,0 +1,376 @@
+{
+  "Auth": {
+    "welcome": {
+      "welcome": "Welcome",
+      "about": "Tarteel application is a platform that brings together a huge group of accredited Egyptian teachers, men and women, to provide the service of memorizing the Noble Qur’an online from anywhere in the world and at a time that suits students, men, women and children",
+      "whatintroduce": "What do we offer?",
+      "start": "join to us now"
+    },
+    "login": {
+      "login": "Log in",
+      "welcome_again": "Welcome again , we miss you",
+      "phone": "Your phone",
+      "password": "Password",
+      "log_now": "Login now and sign up later",
+      "log_account": "Or login with a personal account",
+      "facebook": "Facebook",
+      "google": "Gmail",
+      "dont_have_account": "Don't have an account",
+      "create_account": "create account",
+      "forget_password": "Forget Password?",
+      "loginasstudent": "Student",
+      "loginasteacher": "Teacher"
+    },
+    "language": {
+      "choose_language": "Choose Language",
+      "language": "Language",
+      "arabic": "Arabic",
+      "english": "English",
+      "next": "Next"
+    },
+    "reset": {
+      "reset_password": "Reset Password",
+      "enter_mobile": "Enter your phone number to receive the code to reset uour password",
+      "send": "Send"
+    },
+    "pincode": {
+      "sent_code": "We have sent the confirmation code to the mobile number, check the messages and enter the code sent to",
+      "confirm": "confirm",
+      "resend_code": "Resend Code"
+    },
+    "chossetype": {
+      "account_type": "Choose account type",
+      "student": "Student",
+      "teacher": "Teacher"
+    },
+    "completecreateaccount": {
+      "create_new_account": "Create new account",
+      "enter_personal_info": "Enter personal information",
+      "name": "name",
+      "dob": "Date of birth",
+      "done": "Done",
+      "country": "Country",
+      "nationality": "Nationality",
+      "gender": "Gender",
+      "socailstates": "Social status",
+      "thanks": "Thank you, your account has been successfully registered",
+      "continue": "Continue",
+      "we_are_happy": "We are glad to have you with us today",
+      "start_now": "Start now",
+      "single": "Single",
+      "married": "Married",
+      "other": "Other"
+    },
+    "createnewaccount": {
+      "enter_personal_info_to_create": "Enter the information to create an account",
+      "confirm_password": "Confirm password",
+      "email": "email",
+      "continue": "continue",
+      "have_an_account": "Do you have an account",
+      "agree_to": "By registering, you agree to",
+      "terms": "Terms and Conditions"
+    },
+    "teacher_register": {
+      "carrier_info": "Enter your professional data",
+      "date_of_start_teaching": "Teaching start date",
+      "language_of_education": "Language of education",
+      "english": "English",
+      "arabic": "Arabic",
+      "all": "All",
+      "are_you": "Specify whether you are a azhari or a metaphor with an attachment of a picture",
+      "azhari": "Azhari",
+      "azhar_photo": "Attach a photo of the Azhar certificate",
+      "metaphor": "Metaphor",
+      "vaction_photo": " Attaching a picture from your most recent vacation",
+      "more": "More"
+    },
+    "resetnewpassword": {
+      "reset_new_password": "Reset new password",
+      "enter_new_password": "Enter new password",
+      "new_password": "New password",
+      "confirm_new_password": "Confirm new password",
+      "confirm": "Confirm",
+      "back_to_login": "Back to login",
+      "thanks": "Thank you, you have successfully changed your password"
+    }
+  },
+  "Main": {
+    "bookingnewtime": {
+      "booking": "Mybooking",
+      "this_week": "This week",
+      "agenda": "Agenda",
+      "booking_session_time": "Book a session",
+      "available_time": "available time for teacher",
+      "no_sessions_available": "No sessions available in this time"
+    },
+    "changepassword": {
+      "change_password": "Change password",
+      "newpassword": "New password",
+      "confirmnewpassword": "Confirm new password",
+      "save": "Save"
+    },
+    "chats": {
+      "chats": "Chats",
+      "search_for_chat": "Serach for chat"
+    },
+    "commonquestions": {
+      "common_questions": "Common questions"
+    },
+    "contactus": {
+      "contact": "Contact us"
+    },
+    "discount": {
+      "discounts": "Discount Coupons",
+      "couponname": "Coupon name : ",
+      "recitationcoupon": "Recitation coupon : ",
+      "appear_in_site": "Appears in site",
+      "coupon_value": "Coupon value : ",
+      "coupon_validity": "Coupon validity : ",
+      "until_supplies_runout": "Until supplies run out"
+    },
+    "teacherfavourit": {
+      "teacher_favourit": " Favorite teachers",
+      "search_for_teacher": "Search for teacher",
+      "average_session_price": "Average session price",
+      "free_sessions": "Book one session",
+      "more_about_teacher": "About teacher"
+    },
+    "home": {
+      "home": "Home",
+      "chat": "chat",
+      "welcome_in_tartil": "Welcome to Tartil",
+      "choose_teacher": "Choose your teacher from a group of certified teachers to learn the Noble Qur’an online",
+      "search_for": "Search for teacher",
+      "session_average": "session start with : ",
+      "language": "Language : ",
+      "free_session": "Book session",
+      "more_about": "About teacher",
+      "filter": "Filter",
+      "show_teacher": "View teachers",
+      "all": "All",
+      "available": "available",
+      "teacher_gender": "Teacher gender",
+      "male": "male",
+      "female": "female",
+      "teahcer_language": "Learning language : ",
+      "search": "Search",
+      "require_login": "Login Require",
+      "you_should": "you should login to continue",
+      "cancel": "Cancel",
+      "no_teacher": "No available teachers",
+      "no_student": "No available students",
+      "you_cant_search_for": "you can't search for females"
+    },
+    "mybooking": {
+      "my_booking": "My booking",
+      "fixed": "Booked",
+      "not_fixed": "Not fixed",
+      "finished": "Finished",
+      "teacher_name": "Teacher name : ",
+      "sessions_date": "Session date : ",
+      "session_time": "Session time : ",
+      "session_number": "Number:",
+      "details": "Details",
+      "change_time": "Change time",
+      "package_name": "Name : ",
+      "send_message_to": "Send message to teacher",
+      "choose_session_time": "Choose time",
+      "session_balance": "Your current session balance"
+    },
+    "mysubscriptions": {
+      "mysubscriptions": "My subscriptions",
+      "date_of_purchase": "Date of purchase : ",
+      "still_five_days": "This package will expire in ",
+      "teacher_page_visit": "Visit the teacher's page",
+      "status": "Status : ",
+      "price": "Price : ",
+      "cancel_subcription": "unsubscribe",
+      "cancel_package": "Are you sure to cancel this package?",
+      "make_sure_teacher": "Make sure you apologize to the teacher first in case the package is cancelled"
+    },
+    "notifications": {
+      "notifications": "Notifications",
+      "start_session": "Start session now"
+    },
+    "packagereview": {
+      "package_review": "Package review",
+      "package_expire": "Validity : ",
+      "enter_discount": "Enter the discount code, if exist",
+      "apply_code": "Apply code",
+      "apply": "Apply",
+      "you_can_use": "You can use a coupon from your coupons",
+      "package_price": "Package price : ",
+      "discount_value": "Discount value",
+      "tartil_wallet": "Tartil wallet value",
+      "administrative_expenses": "Administrative expenses",
+      "final_price": "Final price",
+      "continue_payment": "Continue",
+      "go_to": "Go to Coupons page >>"
+    },
+    "paymentdetails": {
+      "payment_details": "Payment details",
+      "complete_payment": "Complete the payment process",
+      "congratulations": "our end! Your package has been successfully booked",
+      "add_teacher": "We have added the teacher you booked with to your favorites list",
+      "you_can_back": "You can go back to the teacher's page and book a time with him",
+      "back_teacher": "Back to teacher page",
+      "back_home": "Back to home"
+    },
+    "policy": {
+      "policy": "Application policy"
+    },
+    "profile": {
+      "personal_profile": "Profile",
+      "personal_info": "Personal information",
+      "login_data": "Login data",
+      "attach_login": "link login",
+      "update_data": "Update data"
+    },
+    "teacherdetails": {
+      "teacher_details": "Teacher details",
+      "age": "age : ",
+      "experience": "Experience : ",
+      "add_teacher_to": "Add teacher to favourites",
+      "you_can_start": "You can start an optional free session",
+      "teacher_certificate": "Certificate",
+      "student_review": "Student reviews",
+      "teacher_time": "Teacher time",
+      "join_with_teacher": "Join with teacher",
+      "booking_new_time": "Booking new time",
+      "azhari_image": "Azhari certificate image",
+      "vaction_image": "Last certificate",
+      "done_to_favourite": "added to favourites",
+      "total_session": "total sessions",
+      "from": "from",
+      "to": "to"
+    },
+    "teacherpackages": {
+      "teacher_packages": "Teacher packages",
+      "join_this_package": "subscribe",
+      "price_this_package": "Price of this package : ",
+      "validation": "validity : ",
+      "choose_language": "Choose learning language"
+    },
+    "wallet": "Tartil wallet",
+    "when_cancel": "When you cancel the subscription, the amount will be transferred to your Tartil wallet",
+    "logout": "Logout",
+    "earningsreceived": {
+      "earnings_received": "Earnings received",
+      "you_can_follow": "You can follow your previous earnings history",
+      "date_received": "Received date : ",
+      "total_money": "Amount received"
+    },
+    "prevoiousSession": {
+      "previous_session": "Previous sessions",
+      "student_name": "Student name : ",
+      "session_date": "Session date : ",
+      "start": "Start : ",
+      "see_rate": "View the student's rating",
+      "student_rate": "Student rate",
+      "student_opinion": "Student's opinion"
+    },
+    "teachersubscribtion": {
+      "register_subscriptions": "Register subscriptions",
+      "date_buy": "The date of purchase",
+      "send_message_to": "Send to student",
+      "subscriptions_details": "Subscriptions details",
+      "finish_session": "Number of sessions ended:"
+    },
+    "teacherbookingrecording": {
+      "record_booking": "Record bookings",
+      "next_session": "Next session"
+    },
+    "teacherhome": {
+      "teacher_home": "Home",
+      "you_can_choose": "You can choose whether you appear to the caller as available or unavailable, and you can also start a virtual call to experience the audio, video, and call quality",
+      "available": "Available",
+      "unAvailable": "Un available",
+      "start_call": "Start a virtual call",
+      "booking_session": "Number of sessions booked : ",
+      "fixed_session": "Number of sessions scheduled",
+      "not_booking": "Number of sessions that students\n have signed up for but not booked yet",
+      "total_session": "Total number of sessions",
+      "total_join": "Total number of subscriptions",
+      "total_student": "Total number of students",
+      "follow_balance": "Follow your balance",
+      "available_balance": "Balance available for exchange",
+      "suspended_balance": "The suspended balance until the completion of the joint sessions",
+      "last_month": "Profits received last month",
+      "profit_in_tartil": "Earnings received since subscribing to tartil",
+      "welcome_to": "Welcome to tartil",
+      "we_are_happy": "We are glad to have you with us today",
+      "next_session_time_from": "The date of your next session is today from",
+      "next_session_time_to": "to",
+      "start_session_now": "Start session now",
+      "show_details": "View details",
+      "teacher_statics": "Teacher statics",
+      "get_money": "Get money",
+      "session_date": "Session date",
+      "student_name": "Student name",
+      "session_price": "Session price",
+      "session_start": "Start",
+      "duration": "duration",
+      "expire": "Session expiration",
+      "session_details": "Session details",
+      "session_cancel": "Cancel session",
+      "are_you_sure": "Are you sure that you want to cancel session?",
+      "make_sure": "Make sure you apologize to the student first in case the session is cancelled",
+      "cancel_done": "The session has been cancelled",
+      "student_can": "The student can book the session again and it will appear to you",
+      "back": "Back",
+      "subscribe": "subscribe",
+      "minute": "Minute",
+      "yes": "Yes",
+      "no": "No",
+      "disable_time": "Are you sure you want to disable this session from showing to students?",
+      "enable_time": "Are you sure to re-enable this session date to appear for students?"
+    },
+    "teacherpackagesubscribe": {
+      "teacher_package_subscribe": "Subscription packages",
+      "we_will_calculate": "You are completely free to determine the prices of the previous packages as well as activate or deactivate any package",
+      "price_language": "The price of learning in Arabic",
+      "egy_price": " Egyptian price",
+      "en_price_language": "The price of learning in English",
+      "dollar_price": "Price in dollars",
+      "save": "Save",
+      "packageNumbers": "Sessions number : ",
+      "doYouWantToOnOrOf": "Do you want to activate the package"
+    },
+    "teacherProfile": {
+      "teacher_profile": "Profile",
+      "communicate": "Contact information",
+      "date_login": "Login data",
+      "career_data": "professional data"
+    },
+    "teacherstudent": {
+      "teacher_student": "My students",
+      "all": "All",
+      "current": "Currently subscribers",
+      "last_package": "Last package : ",
+      "still_session": "The number of sessions left : ",
+      "finish": "Sessions completed",
+      "date": "Date : "
+    },
+    "teachertime": {
+      "teacher_time": "My time",
+      "add_time": "Added time",
+      "edit": "Edit",
+      "you_can": "You can specify the available time that suitable for you at this day",
+      "sat": "Saturday",
+      "sun": "Sunday",
+      "mon": "Monday",
+      "tus": "Tuesday",
+      "wens": "Wednesday",
+      "thurs": "Thursday",
+      "frid": "Friday"
+    },
+    "copy": "copy",
+    "copy_done": "Text copied successfully",
+    "current_balance": "Current balance",
+    "no_data": "There is no information on this page at the moment",
+    "are_you_sure": "are you sure that you want to change language",
+    "upload_image": "upload image",
+    "no_found_time": "No found time",
+    "delete_account": "Delete your account"
+  }
+}

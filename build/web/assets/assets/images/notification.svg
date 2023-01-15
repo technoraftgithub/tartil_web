@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Notification" transform="translate(-7)">
+    <g id="Iconly_Curved_Notification" data-name="Iconly/Curved/Notification" transform="translate(98.484 210.485)">
+      <circle id="Ellipse_665" data-name="Ellipse 665" cx="20" cy="20" r="20" transform="translate(-91.484 -210.485)" fill="#f6eee3"/>
+      <g id="Notification_Ic" transform="translate(-81.484 -202.486)">
+        <path id="Stroke-1" d="M10,0A8.449,8.449,0,0,0,1.383,8.331c0,2.478.39,1.749-1.1,4.771C-1.532,17.41,5.773,19.17,10,19.17S21.531,17.41,19.716,13.1c-1.488-3.023-1.1-2.293-1.1-4.771A8.449,8.449,0,0,0,10,0Z" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="#3b8c67" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+        <path id="Stroke-3" d="M11.032,18a3.86,3.86,0,0,1-5.961,0" transform="translate(1.948 4.592)" fill="none" stroke="#3b8c67" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

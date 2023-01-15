@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Switch_Ic" transform="translate(5.25 8.25)">
+    <circle id="Ellipse_666" data-name="Ellipse 666" cx="24" cy="24" r="24" transform="translate(-5.25 -8.25)" fill="#ffc258"/>
+    <g id="Swap" transform="translate(6.75 3.75)">
+      <line id="Stroke-1" y2="20.4" transform="translate(5.413 0.002)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke-3" d="M0,6.677S2.907,0,5.465,0,10.93,6.677,10.93,6.677" transform="translate(0 0)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <line id="Stroke-5" y1="20.4" transform="translate(18.587 3.598)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke-7" d="M20.859,10.728s-2.908,6.677-5.465,6.677-5.465-6.677-5.465-6.677" transform="translate(3.141 6.594)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Iconly_Curved_Send" data-name="Iconly/Curved/Send" transform="translate(4.2 6.2)">
+    <circle id="Ellipse_665" data-name="Ellipse 665" cx="20" cy="20" r="20" transform="translate(-4.2 -6.2)" fill="#f6eee3"/>
+    <g id="vuesax_bulk_sms-notification" data-name="vuesax/bulk/sms-notification" transform="translate(-682.2 -252.2)">
+      <g id="sms-notification" transform="translate(684 252)">
+        <path id="Vector" d="M0,0H28V28H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M5.844,2.922A2.922,2.922,0,1,1,2.922,0,2.922,2.922,0,0,1,5.844,2.922Z" transform="translate(19.819 3.506)" fill="#3b8c67"/>
+        <path id="Vector-3" data-name="Vector" d="M5.844,2.922A2.922,2.922,0,1,1,2.922,0,2.922,2.922,0,0,1,5.844,2.922Z" transform="translate(19.819 3.506)" fill="#e70b00"/>
+        <path id="Vector-4" data-name="Vector" d="M21.832,6.762a1.161,1.161,0,0,1,1.493,1.119V13.99c0,4.08-2.333,5.829-5.831,5.829H5.831C2.333,19.819,0,18.07,0,13.99V5.829C0,1.749,2.333,0,5.831,0h8.875a1.176,1.176,0,0,1,1.131,1.434,4.663,4.663,0,0,0,3.359,5.4A4.8,4.8,0,0,0,21.832,6.762Z" transform="translate(2.337 4.102)" fill="#3b8c67" opacity="0.4"/>
+        <g id="Group" transform="translate(7.28 9.618)">
+          <path id="Vector-5" data-name="Vector" d="M6.723,5.4a4.345,4.345,0,0,1-2.735-.923L.33,1.558A.873.873,0,0,1,1.417.19L5.075,3.112a2.789,2.789,0,0,0,3.284,0l1.379-1.1a.873.873,0,1,1,1.087,1.367l-1.379,1.1A4.289,4.289,0,0,1,6.723,5.4Z" transform="translate(0 0)" fill="#3b8c67"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

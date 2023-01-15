@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="50" viewBox="0 0 56 50">
+  <g id="Warning_Ic_-_Pop_up" data-name="Warning_Ic - Pop up" transform="translate(-27.336 -1.125)">
+    <g id="Group_4654" data-name="Group 4654" transform="translate(27.336 1.125)">
+      <path id="Path_755" data-name="Path 755" d="M242.611,40.3,221.967,4.74a7.278,7.278,0,0,0-12.579,0l-4.19,7.217,22.738,39.168h8.384a7.24,7.24,0,0,0,7.26-7.22,7.152,7.152,0,0,0-.971-3.6Z" transform="translate(-187.581 -1.125)" fill="#f9bb69"/>
+      <path id="Path_756" data-name="Path 756" d="M134.178,63a7.059,7.059,0,0,0-.98,3.736,7.381,7.381,0,0,0,7.5,7.058H173.8a7.2,7.2,0,0,0,6.357-10.8L163.528,34.732a7.413,7.413,0,0,0-12.714,0Z" transform="translate(-133.196 -23.79)" fill="#f6d76f"/>
+      <g id="Group_4653" data-name="Group 4653" transform="translate(24.33 10.182)">
+        <path id="Path_757" data-name="Path 757" d="M237.17,46.14a3.67,3.67,0,0,0-3.67,3.67V60.264a3.67,3.67,0,1,0,7.34,0V49.81A3.67,3.67,0,0,0,237.17,46.14Z" transform="translate(-233.5 -46.14)" fill="#666362"/>
+        <circle id="Ellipse_32" data-name="Ellipse 32" cx="3.67" cy="3.67" r="3.67" transform="translate(0 25.137)" fill="#666362"/>
+      </g>
+    </g>
+  </g>
+</svg>

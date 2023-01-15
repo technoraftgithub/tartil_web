@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Profile_Ic_active" data-name="Profile_Ic active" transform="translate(-108.435 -252.842)">
+    <g id="frame" transform="translate(112.6 253.25)">
+      <path id="Vector" d="M6.065,11.756H5.975a.615.615,0,0,0-.2,0,5.833,5.833,0,1,1,.329,0ZM5.884,1.7a4.179,4.179,0,0,0-.159,8.355,1.871,1.871,0,0,1,.363,0,4.18,4.18,0,0,0-.2-8.355Z" transform="translate(2.265 -0.408)" fill="#fefefe"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(-4.165 -0.408)" fill="none" opacity="0"/>
+      <g id="Ellipse_683" data-name="Ellipse 683" transform="translate(-0.164 12.132)" fill="#fefefe" stroke="#fefefe" stroke-width="1">
+        <ellipse cx="8.5" cy="5.73" rx="8.5" ry="5.73" stroke="none"/>
+        <ellipse cx="8.5" cy="5.73" rx="8" ry="5.23" fill="none"/>
+      </g>
+      <g id="Ellipse_684" data-name="Ellipse 684" transform="translate(2.266 -0.408)" fill="#fff" stroke="#fefefe" stroke-width="1">
+        <ellipse cx="5.885" cy="5.88" rx="5.885" ry="5.88" stroke="none"/>
+        <ellipse cx="5.885" cy="5.88" rx="5.385" ry="5.38" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
